@@ -1,4 +1,4 @@
-# Livrables Finaux - Spice AI
+# Spice AI
 
 **Projet :** Application Chatbot avec Snowflake Cortex  
 **Team :** SpiceGirlz (Coralie • Hiba • Sophia • Clara • Jade)  
